@@ -1,0 +1,26 @@
+@charset "ISO-8859-1";
+
+body{
+	background-image:url('lib2.jpg');
+	background-repeat:no-repeat;
+	
+	background-size:cover;
+	background-attachment:fixed;
+}
+
+a{
+	float:right;
+	color:red;
+}
+input[type="submit"]{
+	background-color:#000000;
+	color:white;
+	padding:10px 10px;
+	border:none;
+}
+.D input[type="submit"]{
+	background-color:#ff0000;
+	color:white;
+	padding:10px 10px;
+	border:none;
+}

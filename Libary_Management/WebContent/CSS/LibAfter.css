@@ -1,0 +1,17 @@
+@charset "ISO-8859-1";
+body{
+	background-image:url('lib4.jpg');
+	background-repeat:no-repeat;
+	background-position:center top;
+	background-size:cover;
+	background-attachment:fixed;
+	
+}
+a{
+	color:#0080ff;
+}
+h1{
+	color:#00ff00;
+	font-weight:800;
+	font-size:20px;
+}

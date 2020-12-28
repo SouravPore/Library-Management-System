@@ -1,0 +1,24 @@
+@charset "ISO-8859-1";
+
+body{
+	background-image:url('admin2.jpg');
+	background-repeat:no-repeat;
+	background-position:center center;
+}
+
+h1{
+	color:red;
+	font-weight:1500;
+	font-size:30px;
+}
+a{
+	color:#00ffff;
+	font-weight:800;
+	font-size:20px;
+}
+
+.A{
+	color:#0000ff;
+	font-weight:1800;
+	font-size:50px;
+}

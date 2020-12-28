@@ -1,0 +1,26 @@
+@charset "ISO-8859-1";
+
+body{
+	background-image:url('lib4.jpg');
+	background-repeat:no-repeat;
+	background-position:center top;
+	background-size:cover;
+	background-attachment:fixed;
+	font-weight:500;
+	font-size:20px;
+}
+a{
+	float:right;
+	color:#ff0000;
+}
+h1{
+	color:#0080ff;
+	font-weight:1200;
+	font-size:30px;
+}
+input[type="submit"]{
+	background-color:#000000;
+	color:white;
+	padding:10px 10px;
+	border:none;
+}

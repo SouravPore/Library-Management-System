@@ -1,0 +1,29 @@
+@charset "ISO-8859-1";
+
+body{
+	background-image:url('libary1.jpg');
+	background-repeat:no-repeat;
+	
+	background-size:cover;
+	background-attachment:fixed;
+	
+}
+a{
+	float:right;
+	color:red;
+}
+.myform h1{
+	color:#ff0000;
+}
+.myform label{
+	disply:block;
+	color:#0000ff;
+	font-weight:800;
+	font-size:20px;
+}
+.myform input[type="submit"]{
+	background-color:#000000;
+	color:white;
+	padding:10px 10px;
+	border:none;
+}

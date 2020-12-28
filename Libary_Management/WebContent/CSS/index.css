@@ -1,0 +1,15 @@
+@charset "ISO-8859-1";
+body{
+	background-image:url('library6.jpg');
+	background-repeat:no-repeat;
+	background-position:center top;
+}
+h1{
+	color:#00ff00;
+	font-weight:1800;
+	font-size:50px;
+}
+a{
+	color:#00ffff;
+	
+}
